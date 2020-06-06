@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yommyy.github.io/react-deploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/yommyy.github.io/react-deploy/static/js/main.f8fd8f34.chunk.js",
+    "main.js.map": "/yommyy.github.io/react-deploy/static/js/main.f8fd8f34.chunk.js.map",
+    "runtime-main.js": "/yommyy.github.io/react-deploy/static/js/runtime-main.bf840ca9.js",
+    "runtime-main.js.map": "/yommyy.github.io/react-deploy/static/js/runtime-main.bf840ca9.js.map",
+    "static/js/2.ae637d20.chunk.js": "/yommyy.github.io/react-deploy/static/js/2.ae637d20.chunk.js",
+    "static/js/2.ae637d20.chunk.js.map": "/yommyy.github.io/react-deploy/static/js/2.ae637d20.chunk.js.map",
+    "index.html": "/yommyy.github.io/react-deploy/index.html",
+    "precache-manifest.a627e658402bc2567b233368b2278faa.js": "/yommyy.github.io/react-deploy/precache-manifest.a627e658402bc2567b233368b2278faa.js",
+    "service-worker.js": "/yommyy.github.io/react-deploy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/yommyy.github.io/react-deploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ae637d20.chunk.js.LICENSE.txt": "/yommyy.github.io/react-deploy/static/js/2.ae637d20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf840ca9.js",
+    "static/js/2.ae637d20.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8fd8f34.chunk.js"
+  ]
+}
